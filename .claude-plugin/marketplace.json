@@ -36,6 +36,22 @@
       },
       "homepage": "https://github.com/sdrik/wezterm/tree/claude-plugin",
       "repository": "https://github.com/sdrik/wezterm"
+    },
+    {
+      "name": "statusline",
+      "source": {
+        "source": "github",
+        "repo": "sdrik/claude-statusline"
+      },
+      "description": "Installs a rich Claude Code status line: email, mode, model, effort, context-window gauge, and 5h/7d rate-limit gauges.",
+      "author": {
+        "name": "Cédric Schieli",
+        "email": "cschieli@gmail.com"
+      },
+      "homepage": "https://github.com/sdrik/claude-statusline",
+      "repository": "https://github.com/sdrik/claude-statusline",
+      "license": "MIT",
+      "keywords": ["statusline", "status-line", "context", "rate-limit"]
     }
   ]
 }
