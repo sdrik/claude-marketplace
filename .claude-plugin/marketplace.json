@@ -1,0 +1,26 @@
+{
+  "name": "sdrik-plugins",
+  "owner": {
+    "name": "Cédric Schieli",
+    "email": "cschieli@gmail.com"
+  },
+  "description": "Claude Code plugins by Cédric Schieli.",
+  "plugins": [
+    {
+      "name": "git-workspace",
+      "source": {
+        "source": "github",
+        "repo": "sdrik/git-workspace"
+      },
+      "description": "Skills for managing git workspaces (worktrees, bare repositories, ...).",
+      "author": {
+        "name": "Cédric Schieli",
+        "email": "cschieli@gmail.com"
+      },
+      "homepage": "https://github.com/sdrik/git-workspace",
+      "repository": "https://github.com/sdrik/git-workspace",
+      "license": "MIT",
+      "keywords": ["git", "worktree", "bare-repository", "workspace"]
+    }
+  ]
+}
