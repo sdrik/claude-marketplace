@@ -21,6 +21,21 @@
       "repository": "https://github.com/sdrik/git-workspace",
       "license": "MIT",
       "keywords": ["git", "worktree", "bare-repository", "workspace"]
+    },
+    {
+      "name": "wezterm",
+      "source": {
+        "source": "github",
+        "repo": "sdrik/wezterm",
+        "ref": "claude-plugin"
+      },
+      "description": "Development and debugging tools for the WezTerm terminal emulator.",
+      "author": {
+        "name": "Cédric Schieli",
+        "email": "cschieli@gmail.com"
+      },
+      "homepage": "https://github.com/sdrik/wezterm/tree/claude-plugin",
+      "repository": "https://github.com/sdrik/wezterm"
     }
   ]
 }

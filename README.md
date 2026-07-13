@@ -9,6 +9,7 @@ This catalog is meant to grow — more plugins will be added over time.
 | Plugin | Description |
 | --- | --- |
 | [`git-workspace`](https://github.com/sdrik/git-workspace) | Skills for managing git workspaces (worktrees, bare repositories, ...). |
+| [`wezterm`](https://github.com/sdrik/wezterm/tree/claude-plugin) | Development and debugging tools for the WezTerm terminal emulator. |
 
 ## Usage
 
@@ -17,6 +18,7 @@ Add the marketplace, then install a plugin:
 ```shell
 /plugin marketplace add sdrik/claude-marketplace
 /plugin install git-workspace@sdrik-plugins
+/plugin install wezterm@sdrik-plugins
 ```
 
 Or from your terminal:
@@ -24,6 +26,7 @@ Or from your terminal:
 ```bash
 claude plugin marketplace add sdrik/claude-marketplace
 claude plugin install git-workspace@sdrik-plugins
+claude plugin install wezterm@sdrik-plugins
 ```
 
 To pull in later updates:
