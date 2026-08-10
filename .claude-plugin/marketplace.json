@@ -52,6 +52,22 @@
       "repository": "https://github.com/sdrik/claude-statusline",
       "license": "MIT",
       "keywords": ["statusline", "status-line", "context", "rate-limit"]
+    },
+    {
+      "name": "hygiene",
+      "source": {
+        "source": "github",
+        "repo": "sdrik/claude-hygiene"
+      },
+      "description": "Keeps conversation-internal shorthand out of public artifacts: branch names, commit messages, PR text.",
+      "author": {
+        "name": "Cédric Schieli",
+        "email": "cschieli@gmail.com"
+      },
+      "homepage": "https://github.com/sdrik/claude-hygiene",
+      "repository": "https://github.com/sdrik/claude-hygiene",
+      "license": "MIT",
+      "keywords": ["hygiene", "commit-message", "branch-name", "pull-request", "hooks"]
     }
   ]
 }
