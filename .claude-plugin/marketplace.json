@@ -9,8 +9,8 @@
     {
       "name": "git-workspace",
       "source": {
-        "source": "github",
-        "repo": "sdrik/git-workspace"
+        "source": "url",
+        "url": "https://github.com/sdrik/git-workspace.git"
       },
       "description": "Skills for managing git workspaces (worktrees, bare repositories, ...).",
       "author": {
@@ -25,8 +25,8 @@
     {
       "name": "wezterm",
       "source": {
-        "source": "github",
-        "repo": "sdrik/wezterm",
+        "source": "url",
+        "url": "https://github.com/sdrik/wezterm.git",
         "ref": "claude-plugin"
       },
       "description": "Development and debugging tools for the WezTerm terminal emulator.",
@@ -40,8 +40,8 @@
     {
       "name": "statusline",
       "source": {
-        "source": "github",
-        "repo": "sdrik/claude-statusline"
+        "source": "url",
+        "url": "https://github.com/sdrik/claude-statusline.git"
       },
       "description": "Installs a rich Claude Code status line: email, mode, model, effort, context-window gauge, and 5h/7d rate-limit gauges.",
       "author": {
@@ -56,8 +56,8 @@
     {
       "name": "hygiene",
       "source": {
-        "source": "github",
-        "repo": "sdrik/claude-hygiene"
+        "source": "url",
+        "url": "https://github.com/sdrik/claude-hygiene.git"
       },
       "description": "Keeps conversation-internal shorthand out of public artifacts: branch names, commit messages, PR text.",
       "author": {
